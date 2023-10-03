@@ -1,0 +1,10 @@
+Saya mengapresiasi usaha Anda dalam mengumpulkan data job title dengan crawling. Untuk mengolah data tersebut menjadi dataset yang baik, Anda perlu melakukan beberapa langkah berikut:
+
+Pertama, Anda perlu membersihkan data yang Anda dapatkan dari crawling. Data crawling biasanya mengandung noise, missing value, duplikasi, atau kesalahan penulisan yang perlu diatasi. Anda dapat menggunakan library seperti pandas 1 atau openrefine 2 untuk melakukan data cleaning.
+Kedua, Anda perlu menentukan tujuan Anda dalam menggunakan dataset job title. Apakah Anda ingin melakukan klasifikasi, kategorisasi, analisis, atau visualisasi job title? Tujuan Anda akan menentukan variabel apa saja yang perlu Anda ekstrak atau buat dari data job title. Misalnya, jika Anda ingin melakukan klasifikasi job title berdasarkan industri atau bidang kerja, Anda perlu membuat variabel kelas yang merepresentasikan industri atau bidang kerja tersebut.
+Ketiga, Anda perlu melakukan feature engineering pada data job title. Feature engineering adalah proses membuat atau memilih fitur yang relevan dan informatif untuk tujuan analisis atau pembelajaran mesin. Fitur dapat berupa atribut numerik, kategorikal, teks, atau gambar yang berasal dari data job title itu sendiri atau dari sumber eksternal. Anda dapat menggunakan library seperti scikit-learn 3 atau nltk 4 untuk melakukan feature engineering.
+Keempat, Anda perlu menyimpan dataset job title dalam format yang sesuai dengan kebutuhan Anda. Format dataset dapat berupa file CSV, Excel, SQL, JSON, XML, atau lainnya. Anda dapat menggunakan library seperti pandas 1 atau sqlalchemy 5 untuk menyimpan dataset dalam format yang diinginkan.
+Saya harap ini membantu Anda dalam mengolah data job title menjadi dataset yang baik. Jika Anda ingin belajar lebih lanjut tentang cara mengolah data dengan Python, saya sarankan Anda membaca buku berikut:
+
+Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 6
+Data Science from Scratch: First Principles with Python
