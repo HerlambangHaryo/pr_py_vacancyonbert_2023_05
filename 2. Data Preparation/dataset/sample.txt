@@ -1,0 +1,287 @@
+window.REDUX_STATE = { 
+	"details": {
+		"id": "4398778",
+		"isExpired": false,
+		"isConfidential": false,
+		"header": {
+			"banner": {
+				"bannerUrls": {
+					"large": "https:u002Fu002Fimage-service-cdn.seek.com.auu002F7fd9e5e6ce1afa8a1f64a4810428767db8e8bb84u002Fa868bcb8fbb284f4e8301904535744d488ea93c1"
+				}
+			},
+			"salary": {
+				"max": null,
+				"min": null,
+				"type": "monthly",
+				"extraInfo": null,
+				"currency": "IDR",
+				"isVisible": false
+			},
+			"logoUrls": {
+				"small": null,
+				"medium": null,
+				"large": null,
+				"normal": "https:u002Fu002Fimage-service-cdn.seek.com.auu002F5795e96dc0b6d2695f9b44edc91ae5d1ea813ab1u002Fee4dce1061f3f616224767ad58cb2fc751b8d2dc"
+			},
+			"jobTitle": "FINANCE STAFF",
+			"company": {
+				"name": "PT. CJ FEED AND CARE INDONESIA (Head Office)",
+				"url": "",
+				"slug": "pt.-cj-feed-and-care-indonesia-head-office",
+				"advertiserId": "id317174"
+			},
+			"review": null,
+			"expiration": 27,
+			"postedDate": "10-Jul-23",
+			"postedAt": "2023-07-10T06:45:09Z",
+			"isInternship": false
+		},
+		"companyDetail": {
+			"companyWebsite": "",
+			"companySnapshot": {
+				"avgProcessTime": "29 days",
+				"registrationNo": null,
+				"employmentAgencyPersonnelNumber": null,
+				"employmentAgencyNumber": null,
+				"telephoneNumber": null,
+				"workingHours": null,
+				"website": null,
+				"facebook": null,
+				"size": "501 - 1000 pekerja",
+				"dressCode": null,
+				"nearbyLocations": ""
+			},
+			"companyOverview": {
+				"html": "u003Cpu003EPT. CJ Feed &amp; Care Indonesia one of the largest global business networks of CJ Group in South Korea. It produces and sells livestock and pet feed, while running farm businesses, including poultry, DOC, Shrimp and fish farming. It operates 29 feed mills in seven countries, including South Korea, China and Indonesia (Serang, Jombang, Medan, Lampung, Semarang, Kalimantan &amp; poultry nursery).u003Cu002Fpu003E"
+			},
+			"videoUrl": null,
+			"companyPhotos": [{
+				"caption": "",
+				"url": "https:u002Fu002Fimage-service-cdn.seek.com.auu002F89e640043d64a676ce6a4d22b21445f45f8e1d27u002F256edc7d68df8ebbfa5aa31b1e72b9191592b152"
+			}, {
+				"caption": "",
+				"url": "https:u002Fu002Fimage-service-cdn.seek.com.auu002Fd5a9f92152931c4954741320eea286df69376154u002F256edc7d68df8ebbfa5aa31b1e72b9191592b152"
+			}, {
+				"caption": "",
+				"url": "https:u002Fu002Fimage-service-cdn.seek.com.auu002F6e0b10274acc22b0e88f3c8cd63d5eee9ff8e194u002F256edc7d68df8ebbfa5aa31b1e72b9191592b152"
+			}, {
+				"caption": "",
+				"url": "https:u002Fu002Fimage-service-cdn.seek.com.auu002F9db8cfd9bacfbed10192db5e3349601393a27235u002F256edc7d68df8ebbfa5aa31b1e72b9191592b152"
+			}, {
+				"caption": "",
+				"url": "https:u002Fu002Fimage-service-cdn.seek.com.auu002Fa485266fce02fed0be514b01c03f11cd73deaacfu002F256edc7d68df8ebbfa5aa31b1e72b9191592b152"
+			}, {
+				"caption": "",
+				"url": "https:u002Fu002Fimage-service-cdn.seek.com.auu002F91bc13f07bd69abe552a053e3838b1f8bf9ab78cu002F256edc7d68df8ebbfa5aa31b1e72b9191592b152"
+			}, {
+				"caption": "",
+				"url": "https:u002Fu002Fimage-service-cdn.seek.com.auu002F55df262cdea175fe9a403db80547504b19fdfa77u002F256edc7d68df8ebbfa5aa31b1e72b9191592b152"
+			}, {
+				"caption": "",
+				"url": "https:u002Fu002Fimage-service-cdn.seek.com.auu002F0fd78a3a926a488d1ab5a9bf3c5602f7ce8157d3u002F256edc7d68df8ebbfa5aa31b1e72b9191592b152"
+			}, {
+				"caption": "",
+				"url": "https:u002Fu002Fimage-service-cdn.seek.com.auu002F9d21484f1fa3675ebc051f280d641e73b586fcdbu002F256edc7d68df8ebbfa5aa31b1e72b9191592b152"
+			}]
+		},
+		"jobDetail": {
+			"summary": [],
+			"jobDescription": {
+				"html": "u003Culu003Eu003Cliu003EMelakukan pengelolaan catatan keuangan baik harian, mingguan, maupun bulananu003Cu002Fliu003Eu003Cliu003EMelakukan penjurnalan dan verifikasi data keuanganu003Cu002Fliu003Eu003Cliu003EMemproses pembayaran melalui Swiftnet SAPu003Cu002Fliu003Eu003Cliu003EMembuat estimasi cash flow harianu003Cu002Fliu003Eu003Cliu003EMembuat rekap transaksiu003Cu002Fliu003Eu003Cliu003EMahir menggunakan program SAPu003Cu002Fliu003Eu003Cu002Fulu003Eu003Cpu003EKualifikasi :u003Cu002Fpu003Eu003Culu003Eu003Cliu003EPendidikan terakhir S1 Akuntansiu002FManagementu003Cu002Fliu003Eu003Cliu003EPengalaman kerja minimal 1 tahun di bidang yang sama (Diutamakan Industri Manufaktur)u003Cu002Fliu003Eu003Cliu003EMahir menggunakan aplikasi Microsoft Office ; terutama Ms. Excel, menjadi nilai lebihu003Cu002Fliu003Eu003Cliu003EMemiliki integritas tinggi, percaya diri, komunikatif, Inisiatif dan Pro-aktifu003Cu002Fliu003Eu003Cliu003EJujur, disipilin, teliti, bertanggung jawab dan mampu bekerja mandiri maupun dalam timu003Cu002Fliu003Eu003Cu002Fulu003E"
+			},
+			"jobRequirement": {
+				"careerLevel": "Lulusan baruu002FPengalaman kerja kurang dari 1 tahun",
+				"yearsOfExperience": "1 tahun",
+				"qualification": "Sarjana (S1)",
+				"fieldOfStudy": null,
+				"industryValue": {
+					"value": "agri_fish",
+					"label": "Agrikulturalu002FPerkebunanu002FPeternakan Unggasu002FPerikanan"
+				},
+				"skills": null,
+				"employmentType": "Penuh Waktu",
+				"languages": null,
+				"postedDate": "10-Jul-23",
+				"closingDate": "2023-08-08T17:00:00Z",
+				"jobFunctionValue": [{
+					"code": 501,
+					"name": "Akuntansi u002F Keuangan",
+					"children": null
+				}, {
+					"code": 131,
+					"name": "Akuntansi Umum u002F Pembiayaan",
+					"children": null
+				}],
+				"benefits": ["Asuransi Gigi", "Tip", "Asuransi kesehatan", "Penglihatan", "Waktu regular, Senin - Jumat", "Bisnis (contoh: Kemeja)"]
+			},
+			"whyJoinUs": null
+		},
+		"applyUrl": {
+			"url": "https:u002Fu002Fmyjobstreet-id.jobstreet.co.idu002Fapplicationu002Fonline-apply.php?job_id=4398778&advertisement_id=4400648&s=40&AdvertisementSource=1",
+			"isExternal": false
+		},
+		"location": [{
+			"location": "Jakarta Raya",
+			"locationId": "30500",
+			"omnitureLocationId": "30500"
+		}],
+		"sourceCountry": "id",
+		"savedJob": {
+			"saved": false,
+			"savedJobId": ""
+		},
+		"fetching": false,
+		"pageUrl": "https:u002Fu002Fwww.jobstreet.co.idu002Fidu002Fjobu002Ffinance-staff-4398778",
+		"jobTitleSlug": null,
+		"isClassified": false,
+		"accountNum": 312201,
+		"advertisementId": "4400648",
+		"subAccount": null,
+		"showMoreJobs": null,
+		"adType": "standout"
+	},
+	"browseJobs": {},
+	"device": {
+		"userAgent": "jobstreet (+http:u002Fu002Fwww.yourdomain.com)",
+		"hasMobileUserAgent": false,
+		"isGoogleBot": false
+	},
+	"userProfile": {
+		"candidateId": "",
+		"shard": "",
+		"solId": "b45dea96-08d4-4c44-b3cb-b9e6474dbdaa",
+		"isFirstTimeVisitor": false
+	},
+	"authentication": {
+		"accessToken": "",
+		"refreshToken": "",
+		"expiresIn": 0,
+		"status": "pending"
+	},
+	"jobAlert": {
+		"subscription": {
+			"email": "",
+			"has_consent": false,
+			"subscribeReady": true,
+			"fetching": false,
+			"status": 0
+		},
+		"lastShowPopUpDate": "",
+		"jobAlertList": [],
+		"stickyScrollTriggered": false,
+		"jobAlertModalSearchPath": ""
+	},
+	"userGroups": {
+		"key": "1702",
+		"detailsGroup": true,
+		"srpGroup": true,
+		"homeGroup": true,
+		"isSmartSearch": false
+	},
+	"branchio": {
+		"shouldShowBranchBanner": false,
+		"deviceType": "",
+		"bannerType": "",
+		"linkName": "",
+		"fullBannerName": ""
+	},
+	"analysis": {
+		"isFromCloudFlare": false
+	},
+	"abTest": {
+		"key": "8be5d3a2-20a1-48b0-bb15-78c28c6793ed",
+		"groups": {
+			"enablePersistApolloCache": "B"
+		}
+	},
+	"festivalSetting": {},
+	"location": {
+		"pathname": "u002Fidu002Fjobu002Ffinance-staff-4398778",
+		"type": "JOB_DETAILS",
+		"payload": {
+			"jobTitleEndWithHyphen": "finance-staff-",
+			"Id": "4398778"
+		},
+		"query": {
+			"jobId": "jobstreet-id-job-4398778",
+			"sectionRank": "30",
+			"token": "0~c0ec15ea-7ef1-4985-a84a-c3bc9cb350d9"
+		},
+		"search": "jobId=jobstreet-id-job-4398778&sectionRank=30&token=0~c0ec15ea-7ef1-4985-a84a-c3bc9cb350d9",
+		"prev": {
+			"pathname": "",
+			"type": "",
+			"payload": {}
+		},
+		"kind": "load",
+		"hasSSR": true,
+		"routesMap": {
+			"JOBS": {
+				"path": "u002Fidu002Fjobs"
+			},
+			"JOBS_CATEGORY_LOCATION_JOB_TYPE": {
+				"path": "u002Fidu002Fjobs-in-:categoryu002F:subCategory?u002Fin-:locationu002F:jobType"
+			},
+			"JOBS_CATEGORY_LOCATION": {
+				"path": "u002Fidu002Fjobs-in-:categoryu002F:subCategory?u002Fin-:location"
+			},
+			"JOBS_CATEGORY": {
+				"path": "u002Fidu002Fjobs-in-:category"
+			},
+			"JOBS_SUBCATEGORY_OR_JOB_TYPE": {
+				"path": "u002Fidu002Fjobs-in-:categoryu002F:subCategoryOrJobType"
+			},
+			"JOBS_CATEGORY_JOB_TYPE": {
+				"path": "u002Fidu002Fjobs-in-:categoryu002F:subCategoryu002F:jobType"
+			},
+			"JOBS_LOCATION": {
+				"path": "u002Fidu002Fjobsu002Fin-:location"
+			},
+			"JOBS_JOB_TYPE": {
+				"path": "u002Fidu002Fjobsu002F:jobType"
+			},
+			"JOBS_KEYWORD": {
+				"path": "u002Fidu002F:keyword-jobs"
+			},
+			"JOBS_KEYWORD_CATEGORY_LOCATION_JOB_TYPE": {
+				"path": "u002Fidu002F:keyword-jobs-in-:categoryu002F:subCategory?u002Fin-:locationu002F:jobType"
+			},
+			"JOBS_KEYWORD_CATEGORY_LOCATION": {
+				"path": "u002Fidu002F:keyword-jobs-in-:categoryu002F:subCategory?u002Fin-:location"
+			},
+			"JOBS_KEYWORD_CATEGORY": {
+				"path": "u002Fidu002F:keyword-jobs-in-:category"
+			},
+			"JOBS_KEYWORD_SUBCATEGORY_OR_JOB_TYPE": {
+				"path": "u002Fidu002F:keyword-jobs-in-:categoryu002F:subCategoryOrJobType"
+			},
+			"JOBS_KEYWORD_CATEGORY_JOB_TYPE": {
+				"path": "u002Fidu002F:keyword-jobs-in-:categoryu002F:subCategoryu002F:jobType"
+			},
+			"JOBS_KEYWORD_LOCATION": {
+				"path": "u002Fidu002F:keyword-jobsu002Fin-:location"
+			},
+			"JOBS_KEYWORD_JOB_TYPE": {
+				"path": "u002Fidu002F:keyword-jobsu002F:jobType"
+			},
+			"JOBS_LOCATION_JOB_TYPE": {
+				"path": "u002Fidu002Fjobsu002Fin-:locationu002F:jobType"
+			},
+			"JOBS_KEYWORD_LOCATION_JOB_TYPE": {
+				"path": "u002Fidu002F:keyword-jobsu002Fin-:locationu002F:jobType"
+			},
+			"JOBS_FALLBACK": {
+				"path": "u002Fidu002Fjobs"
+			},
+			"JOB_DETAILS": {
+				"path": "u002Fidu002Fjobu002F:jobTitleEndWithHyphen([^u002F]+-)?:Id([0-9]+)u002F:sources(sources)?u002F:sourceCode(0|1|2|3)?u002F:origin(origin)?u002F:sourceCountryCode(sg|my|ph|id|vn)?"
+			},
+			"HOME": {
+				"path": "u002F"
+			},
+			"FEATURE_FLAGS_PAGE": {
+				"path": "u002Ffeature-flags"
+			}
+		}
+	}
+};
